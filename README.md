@@ -50,3 +50,5 @@ Failure demonstration shows timeout and retry behavior:
 TIMEOUT -> retry
 FAILED after retries
 
+
+## Video demonstration of the Lab 1 RPC implementation is available here: https://youtu.be/gnHN6U-D8Ow
